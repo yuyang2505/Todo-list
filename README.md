@@ -22,8 +22,8 @@ A modern, full-stack Todo List application built with Next.js, TanStack Query, a
 
 ### 2. Database Schema and Types
 
-- [] Create todos table in Supabase
-- [] Define TypeScript interfaces for todos
+- [x] Create todos table in Supabase
+- [x] Define TypeScript interfaces for todos
 
 ### 3. Server Actions Implementation
 
