@@ -27,13 +27,15 @@ A modern, full-stack Todo List application built with Next.js, TanStack Query, a
 
 ### 3. Server Actions Implementation
 
-- [] Create server actions for CRUD operations using useQuery, useMutations
+- [x] Create server actions for CRUD operations 
   - `createTodo`
-  - `updateTodo`
   - `deleteTodo`
   - `toggleTodoComplete`
-- [] Implement error handling
-- [] Add input validation
+
+### 4. Implementation of Tanstack Query with server functions
+
+- [] Implement useQuery to fetch data
+- [] Implement useMutation to create/edit data
 
 ### 5. UI Components and Deployment
 
