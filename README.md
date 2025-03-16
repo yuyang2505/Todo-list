@@ -17,8 +17,8 @@ A modern, full-stack Todo List application built with Next.js, TanStack Query, a
 
 - [x] Initialize Next.js project with TypeScript
 - [x] Set up Tailwind CSS
-- [] Configure Supabase client
-- [] Install and configure TanStack Query
+- [x] Configure Supabase client
+- [x] Install and configure TanStack Query
 
 ### 2. Database Schema and Types
 
