@@ -34,15 +34,15 @@ A modern, full-stack Todo List application built with Next.js, TanStack Query, a
 
 ### 4. Implementation of Tanstack Query with server functions
 
-- [] Implement useQuery to fetch data
-- [] Implement useMutation to create/edit data
+- [x] Implement useQuery to fetch data
+- [x] Implement useMutation to create/edit data
 
 ### 5. UI Components and Deployment
 
-- [] Create Todo form component
-- [] Implement Todo list view
-- [] Add Todo item component
-- [] Add loading skeletons
+- [x] Create Todo form component
+- [x] Implement Todo list view
+- [x] Add Todo item component
+- [x] Add loading skeletons
 - [] Deploy on Vercel
 
 
