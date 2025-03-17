@@ -1,7 +1,6 @@
 import React from "react";
 import { Todo } from "@/schema/todo";
 import TodoItem from "./todo-item";
-import { useQueryClient } from "@tanstack/react-query";
 import { Card } from "./ui/card";
 
 interface TodoListProps {
