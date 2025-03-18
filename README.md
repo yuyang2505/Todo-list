@@ -43,7 +43,7 @@ A modern, full-stack Todo List application built with Next.js, TanStack Query, a
 - [x] Implement Todo list view
 - [x] Add Todo item component
 - [x] Add loading skeletons
-- [] Deploy on Vercel
+
 
 
 
